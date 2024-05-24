@@ -44,7 +44,7 @@ header .container{
 
 .filme-principal{
     font-size: 16px;
-    background: url("/img/fundo1.jpg");
+    background: url(fundo1.jpg);
     height: 400px;
     background-size: cover;
     display: flex;
