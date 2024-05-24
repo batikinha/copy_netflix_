@@ -1,0 +1,98 @@
+:root{
+--vermelho: #E50914;
+--preto: #141414;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--preto);
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+header .logo {
+    color: var(--vermelho);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    margin-left: 5px;
+}
+
+header nav a{
+    text-decoration: none;
+    color: #AAA;
+    margin-right: 10px;
+}
+
+header nav a:hover{
+    color:whitesmoke
+}
+
+header .container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/*filme principal*/
+
+.filme-principal{
+    font-size: 16px;
+    background: url("/img/fundo1.jpg");
+    height: 400px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}   
+
+.filme-principal .descrição{
+    margin-bottom: 40px;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.título{
+    font-size: 35px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 70px;
+    margin-left: 5px;
+}
+
+.botão{
+    background-color: rgba(0,0,0,.50);
+    border: none;
+    color: #ffffff;
+    padding: 15px 30px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: 1s;
+    margin-left: 5px;
+}
+
+.botão:hover{
+    background-color: white;
+    color: black;
+}
+
+.botão i{
+    margin-right: 5px;
+}
+
+.box-filmes{
+    height: 100%;
+    width: 100%;
+    display: block;
+
+}
+
+.carrossel-filmes{
+    margin-top: 5px;
+}
