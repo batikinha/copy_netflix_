@@ -1,2 +1,12 @@
+<h1>Sobre o projeto</h1>
+Feito por meio da DIO, com o objetivo de copiar a página inicial da Netflix.
+
+<h1>Screenshot</h1>
+<img src="/img/tela1.png">
+<img src="/img/tela2.png">
+
+<h2>Link:</h2>
 https://batikinha.github.io/copy_netflix_/
-*O código foi inteiramente baseado no curso da Digital Innovation One (DIO), que ensina a realizar o projeto em questão.
+
+
+
