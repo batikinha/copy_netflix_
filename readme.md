@@ -1,5 +1,5 @@
-<h1>Sobre o projeto</h1>
-Feito por meio da DIO, com o objetivo de copiar a página inicial da Netflix.
+<h1>About the project</h1>
+Made through DIO, with the aim of copying the Netflix homepage.
 
 <h1>Screenshot</h1>
 <img src="/img/tela1.png">
@@ -9,5 +9,5 @@ Feito por meio da DIO, com o objetivo de copiar a página inicial da Netflix.
 https://batikinha.github.io/copy_netflix_/
 
 <h3>Disclaimer</h3>
-Não sou detentora da ideia original do código. Implementei ele com apoio do professor e das aulas designadas.
+I do not own the original idea for the code. I implemented it with the support of the teacher and the assigned classes.
 
